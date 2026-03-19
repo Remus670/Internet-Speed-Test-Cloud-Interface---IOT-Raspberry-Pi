@@ -1,0 +1,1 @@
+An IoT-based system that measures internet speed and displays the results through a cloud interface. It allows real-time monitoring of network performance using a Raspberry Pi , with simulation and testing done on the Wokwi platform.
